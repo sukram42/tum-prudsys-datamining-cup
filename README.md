@@ -16,5 +16,5 @@ To structure the workload of our contribution, we were creating a pipeline for t
 - Markus Böbel
 - Karin Frlic
 - Michael Hauer
-- Kim Wu 
+- Min Wu 
 - Tobias Zeulner

@@ -14,7 +14,7 @@ To structure the workload of our contribution, we were creating a pipeline for t
 - Kyrillus Aiad
 - Nicolas Bauer
 - Markus Böbel
-- Karin Frlic
+- Karin Frlic ([Linkedin](https://www.linkedin.com/in/karinfrlic/))
 - Michael Hauer
 - Min Wu 
 - Tobias Zeulner

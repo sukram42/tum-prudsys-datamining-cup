@@ -11,7 +11,7 @@ To structure the workload of our contribution, we were creating a pipeline for t
 
 ## Members of our group
 
-- Kyrillus Aiad
+- Kyrillus Aiad ([Linkedin](https://www.linkedin.com/in/kyrillus-aiad-b846aa138/))
 - Nicolas Bauer
 - Markus Böbel
 - Karin Frlic ([Linkedin](https://www.linkedin.com/in/karinfrlic/))
